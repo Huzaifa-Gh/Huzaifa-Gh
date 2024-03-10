@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Ghumman</h1>
-<h3 align="center">A dedicated web developer from Pakistan</h3>
+<h3 align="center">Software Engr.</h3>
 
 - 🔭 I’m currently working on **LayoutIQ**
 
